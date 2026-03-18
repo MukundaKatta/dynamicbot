@@ -59,6 +59,3 @@ lib/
   mock-data.ts                  # Sample motion and gait data
 ```
 
-## License
-
-MIT
